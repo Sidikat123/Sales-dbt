@@ -1,3 +1,24 @@
+# sales-dbt
+
+Welcome to the sales-dbt repository. This repo is the home for our dbt transformation logic, documentation, tests, and analytics models. It is intended for members of the data team and any stakeholders who are contributing to our dbt workflow.
+
+## Purpose
+
+This README explains how to set up the dbt project locally, connect it to a warehouse, run dbt commands, and contribute safely.
+
+## Table of Contents
+
+1. Prerequisites
+2. Repository layout
+3. Local setup
+4. Configuring dbt profiles
+5. Common dbt commands
+6. Development workflow
+
+
+
+
+
 Welcome to your new dbt project!
 
 ### Using the starter project
